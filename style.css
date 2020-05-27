@@ -3,6 +3,9 @@
     padding: 0px;
 }
 
+body {
+  background-color: #D3D3D3;
+}
 
 
 nav p{
@@ -21,6 +24,4 @@ body{
 }
 
 
-body  {
-  background-image: url("IMG_0125.MP4");
-}
+
